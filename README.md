@@ -5,6 +5,9 @@ This this my first D3 map. It is based on an example from Michelle Chandra http:
 ## Example Image
 ![Map](src/assets/map.png?raw=true "Title")
 
+## See a running example
+http://irisj.io/d3-zoomable-angular5-map/index.html
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
