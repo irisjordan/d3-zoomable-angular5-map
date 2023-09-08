@@ -6,7 +6,7 @@ This this my first D3 map. It is based on an example from Michelle Chandra http:
 ![Map](src/assets/map.png?raw=true "Title")
 
 ## See a running example
-[go](http://irisj.io/d3-zoomable-angular5-map/){:target="_blank"}.
+http://irisj.io/d3-zoomable-angular5-map/
 
 ## Development server
 
