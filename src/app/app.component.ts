@@ -9,6 +9,13 @@ export class AppComponent {
   title = 'd3-zoomable-angular5-map';
 
   public sightingsData = {
+    thor: [
+      'Munich',
+      'Johannesburg',
+      'New York City',
+      'Moscow',
+      'Beijing'
+    ],
     batman: [
         'Tucson',
         'San Francisco',
@@ -22,13 +29,6 @@ export class AppComponent {
         'Paris',
         'Madrid',
         'Prague'
-    ],
-    thor: [
-        'Munich',
-        'Johannesburg',
-        'New York City',
-        'Moscow',
-        'Beijing'
     ],
     wolverine: [
         'Paris',

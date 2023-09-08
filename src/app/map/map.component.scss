@@ -50,7 +50,8 @@
     }
 
     .dot {
-        background-color: #E91E63;
+        //background-color: #E91E63;
+        background-color: #1ea6bf;
         border-radius: 5px;
         display: inline-block;
         height: 10px;
@@ -85,3 +86,10 @@
     z-index: 8888;    
 }
     
+::ng-deep .mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
+    color: #1ea6bf;
+}
+
+::ng-deep .mat-form-field.mat-focused.mat-primary .mat-select-arrow {
+    color: rgba(0,0,0,0.54);
+}
